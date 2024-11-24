@@ -39,3 +39,7 @@ The system is then tempered so that the most Vibrant Colors of the Visual Light 
 This system is intended to be utilized by Players, Theorists, Educators, Students, and Developers in order to cultivate a more intuitive relationship with the notes of the Sound Spectrum
 
 It is also intended to be a Standardized and Globally Recognized system so that communication between Musicians is well established and understood
+
+Standardized Visual Sound Spectrum (SVSS) © 2024 by James Elliot Bender is licensed under CC BY-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
+
+This License was chosen to ensure the Standardization of this color to music system and to prevent any modification that could cause confusion and disagreement with the communication of musicians, mathematicians and developers 
