@@ -1,6 +1,6 @@
 "# SVSS" Standardized Visual Sound Spectrum
 
-With this system we assign 7 most distinguished colors of the light spectrum (ROYGBIV) to the musical notes Do Re Mi Fa Sol La Te
+With this system we assign the 7 most distinguished colors of the light spectrum (ROYGBIV) to the musical notes Do Re Mi Fa Sol La Te
 
 The use of Te(Bb) in stead of Ti(B Natural) for Violet happens so that Ti can hold a more pinkish hue as the scale transitions back around to a red Do
 
