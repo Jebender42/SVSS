@@ -217,9 +217,12 @@ def Color_Note(Note):
     color = [B,G,R]
     return color
 
-
-
-
+###### Functions ########################################################
+# Color_Note()  # input Letter or Solfege, returns BGR
+# Color_Hertz() # input Hertz value, returns BGR
+# Color_Pitch_Ratio # input Pitch Ratio, returns BGR
+# Color_Length_Ratio # input String Length Ratio, returns BGR
+#########################################################################
 ###### Example Use ######################################################
 #  Creating a circle with a color that is associated with a given note
 
@@ -254,7 +257,7 @@ def Color_Note(Note):
 # cv2.circle(img,[radius,radius],radius,Color_Pitch_Ratio((5/3)*(2**4)),-1)
 
 # Using the String Length Ratio
-# cv2.circle(img,[radius,radius],radius,Color_Note((3/5)/(2**4),-1)
+# cv2.circle(img,[radius,radius],radius,Color_Length_Ratio((3/5)/(2**4),-1)
 
 
 # cv2.imwrite('Example Color.jpeg',img)
