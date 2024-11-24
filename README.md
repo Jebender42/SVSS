@@ -36,6 +36,6 @@ and Brightness to determine how high or low the note is along the full sound spe
 
 The system is then tempered so that the most Vibrant Colors of the Visual Light Spectrum fall on the most Vivacious Notes of the Harmonic Series
 
-This system is intended to be utilized by Players, Theorists, Educators, and Students in order to develop a more intuitive relationship with the notes of the Sound Spectrum
+This system is intended to be utilized by Players, Theorists, Educators, Students, and Developers in order to cultivate a more intuitive relationship with the notes of the Sound Spectrum
 
 It is also intended to be a Standardized and Globally Recognized system so that communication between Musicians is well established and understood
