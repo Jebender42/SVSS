@@ -4,7 +4,7 @@ With this system we assign 7 most distinguished colors of the light spectrum (RO
 
 The use of Te(Bb) in stead of Ti(B Natural) for Violet happens so that Ti can hold a more pinkish hue as the scale transitions back around to a red Do
 
-This system also uses Just Intonation rather than Equal Temperament
+This system also uses Just Intonation and the Harmonic Series rather than Equal Temperament(12 Tet)
 
 Do is associated with the Pitch Ratio 1
 
