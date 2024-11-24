@@ -220,8 +220,8 @@ def Color_Note(Note):
 ###### Functions ########################################################
 # Color_Note()  # input Letter or Solfege, returns BGR
 # Color_Hertz() # input Hertz value, returns BGR
-# Color_Pitch_Ratio # input Pitch Ratio, returns BGR
-# Color_Length_Ratio # input String Length Ratio, returns BGR
+# Color_Pitch_Ratio() # input Pitch Ratio, returns BGR
+# Color_Length_Ratio() # input String Length Ratio, returns BGR
 #########################################################################
 ###### Example Use ######################################################
 #  Creating a circle with a color that is associated with a given note
